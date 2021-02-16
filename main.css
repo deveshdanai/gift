@@ -19,7 +19,7 @@ body {
   height: 100%;
 }
 body {
-  background:#f8f8ff;
+  background:CadetBlue;
 }
 /* ============================================== POSITION
 */
@@ -208,7 +208,7 @@ p {
   user-select: none;
 }
 h1 {
-  color: #6c5299;
+  color: azure;
   font-size: 1em;
   margin-top: 6.8em;
 }
